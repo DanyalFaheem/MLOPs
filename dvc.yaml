@@ -3,8 +3,6 @@ stages:
     cmd: echo "Hello jsut a test command"
   get_data:
     cmd: dvc pull
-    outs:
-    - creditcard.csv
   train_data:
     cmd: python train.py
     deps:
