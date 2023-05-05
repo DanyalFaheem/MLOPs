@@ -1,0 +1,4 @@
+[core]
+    remote = creditcarddata
+['remote "creditcarddata"']
+    url = gdrive://1Diui_zfFplG4Ugo1JGzJjBmALdYnV-GP
