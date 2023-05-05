@@ -1,4 +1,4 @@
 [core]
-    remote = creditcarddata
-['remote "creditcarddata"']
-    url = gdrive://1Diui_zfFplG4Ugo1JGzJjBmALdYnV-GP
+    remote = myremote
+['remote "myremote"']
+    url = http://20.25.16.177:80/
